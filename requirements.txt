@@ -1,0 +1,8 @@
+python-telegram-bot==20.7
+python-dotenv
+aiosqlite
+httpx
+yt-dlp
+edge-tts
+pillow
+fpdf
